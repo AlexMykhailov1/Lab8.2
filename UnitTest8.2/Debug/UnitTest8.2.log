@@ -1,0 +1,5 @@
+﻿  UnitTest8.2.cpp
+Y:\Programming\Projects\Lab8.2\Lab8.2\Lab8.2.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+Y:\Programming\Projects\Lab8.2\Lab8.2\Lab8.2.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+Y:\Programming\Projects\Lab8.2\Lab8.2\Lab8.2.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+  UnitTest8.2.vcxproj -> Y:\Programming\Projects\Lab8.2\Debug\UnitTest8.2.dll
